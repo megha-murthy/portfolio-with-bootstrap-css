@@ -1,0 +1,92 @@
+.navbar-brand h1{
+    background-color: #4aaaa5;
+    display: inline;
+    text-align: center;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    
+}
+
+nav {
+    background-color: #ffffff;
+    border-bottom: 2px solid #cccccc;   
+    margin-bottom : 10px; 
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+   
+}
+
+h3 {
+    border-bottom: 2px solid #dddddd;  
+    font-family: 'Georgia', Times, 'Times New Roman', serif; 
+    padding-bottom: 10px;
+    padding-top:10px;
+    margin-top:10px; 
+}
+
+.media img {
+    width: 200px;
+    height: 250px;
+}
+
+body {
+
+    background-image: url("chevron.png");    
+
+}
+
+footer {
+    position:fixed;
+    left:0;
+    bottom: 0;
+    width:100%;
+    background-color: #666666;
+    text-align: center;
+    height: 40px;
+    border-top: 8px solid #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+
+#index, #contact, #portfolio{
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    padding-left:20px;
+    width:960px;
+    margin-bottom: 100px;
+    
+    
+} 
+
+
+
+button {
+    background-color: #4aaaa5;
+    color:white;
+    width:80px;
+    font-size: 10px;
+}
+
+#one,#two,#three{
+    width: 180px;
+    height: 160px;     
+    position: relative;
+    margin-top:40px;
+    
+
+}
+
+h5 {
+    position: absolute;
+    width:180px;
+    height:40x;
+    margin-bottom:30px;
+    background-color: #4aaaa5;
+    color:white;
+    text-align:center;
+    font-family: 'Georgia', Times, 'Times New Roman', serif; 
+}
+
+
+p{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 1.5;
+}
